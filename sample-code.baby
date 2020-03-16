@@ -1,0 +1,7 @@
+# This is a comment
+
+var name = "This is a variable definition"
+
+func main(a, b) {
+    print("main func called);
+}
